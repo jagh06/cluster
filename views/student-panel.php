@@ -130,7 +130,7 @@ if (isset($_SESSION["login"])) {
                     <nav class="navbar navbar-light bg-light">
                         <div class="container-fluid">
                             <a class="navbar-brand" href="#">
-                                <img src="../requisitos/images/logocluster.png" alt="" width="80" height="30" class="d-inline-block align-text-top">
+                                <img src="../assets/images/logocluster.png" alt="" width="80" height="30" class="d-inline-block align-text-top">
                                 CIAT
                             </a>
                         </div>

@@ -18,7 +18,7 @@
         <nav class="navbar navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="../requisitos/images/logocluster.png" alt="" width="80" height="30" class="d-inline-block align-text-top">
+                    <img src="../assets/images/logocluster.png" alt="" width="80" height="30" class="d-inline-block align-text-top">
                     CIAT
                 </a>
             </div>
@@ -52,7 +52,7 @@
                     </ul>
                     <div class="d-flex">
                         <a class="navbar-brand" href="#">
-                            <img src="../requisitos/images/usuario.png" alt="" width="30" height="29" class="d-inline-block align-text-top">
+                            <img src="../assets/images/usuario.png" alt="" width="30" height="29" class="d-inline-block align-text-top">
                             Usuario
                         </a>
                     </div>

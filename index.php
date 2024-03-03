@@ -159,7 +159,7 @@
 
   <main class="form-signin w-100 m-auto">
     <form action="./login/login-student.php" method="POST">
-      <img class="mb-4" src="./requisitos/images/logocluster.png" alt="" width="200" height="100">
+      <img class="mb-4" src="./assets/images/logocluster.png" alt="" width="200" height="100">
       <h1 class="h3 mb-3 fw-normal">Por favor inicie sesión</h1>
 
       <div class="form-floating">
